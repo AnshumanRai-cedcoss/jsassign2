@@ -1,0 +1,22 @@
+#time {
+  font-size: 40px;
+  margin-bottom: 50px;
+  width: 30%;
+}
+.wrapper {
+  text-align: center;
+  padding: 40px;
+  margin-top: 50px;
+}
+.radi {
+  padding: 60px;
+  font-size: 20px;
+}
+#c0 {
+  padding: 20px;
+  margin-bottom: 40px;
+}
+.radi label {
+  padding: 40px;
+  margin-bottom: 40px;
+}
